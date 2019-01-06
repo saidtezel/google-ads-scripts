@@ -4,7 +4,7 @@ A list of ad scripts that can automate crucial tasks for your campaign managemen
 Will be updated as I generate new scripts.
 
 ## List of Current Scripts
-###[MCC] Label based ad scheduling management [script file](https://github.com/saidtezel/google-ads-scripts/blob/master/tag-based-bid-scheduling.js)
+### [MCC] Label based ad scheduling management [script file](https://github.com/saidtezel/google-ads-scripts/blob/master/tag-based-bid-scheduling.js)
 Gives you the ability to create custom bidding schedules for your campaigns based on labels. 
 
 **How to use**
