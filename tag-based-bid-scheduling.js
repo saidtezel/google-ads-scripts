@@ -1,8 +1,7 @@
-/*
-*
-* Campaign label based ad scheduling
-* 
-* This script is a heavily modified version of the day parting script provided by brainlabsdigital.com
+/**
+ * @name Campaign label based ad scheduling
+ *
+ * @overview This script is a heavily modified version of the day parting script provided by brainlabsdigital.com
 * It provides an MCC version of the script that heavily depeneds on the labels applied to the campaigns.
 *
 * It will apply ad schedules to campaigns or shopping campaigns and set
@@ -12,12 +11,12 @@
 * This version creates schedules with modifiers for 4 hours, then fills the rest
 * of the day and the other days of the week with schedules with no modifier as a
 * fail safe.
-*
-* Version: 1
-* Updated to allow -100% bids, change mobile adjustments and create fail safes.
-* saidtezel.com
-*
-*/
+ *
+ * @author Said Tezel [saidtezel@gmail.com]
+ *
+ * @version 1.0
+ *
+**/
 
 function main() {
 	var spreadsheetUrl = "INSERT GOOGLE SHEET URL";
